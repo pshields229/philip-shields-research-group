@@ -1,5 +1,5 @@
 ---
-title: Philip Shields
+title: Dr Philip Shields
 role: Senior Lecturer/Associate Professor in Electronic Engineering
 avatar_filename: philip-shields.jpg
 bio: My research interests are in nanofabrication, semiconductors and optical
