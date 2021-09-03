@@ -1,6 +1,6 @@
 ---
 title: Philip Shields
-role: Senior Lecturer in Electronic Engineering
+role: Senior Lecturer/Associate Professor in Electronic Engineering
 avatar_filename: philip-shields.jpg
 bio: My research interests are in nanofabrication, semiconductors and optical
   devices.
@@ -15,12 +15,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=yzRELnMAAAAJ&hl=en&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 organizations:
   - name: University of Bath
-    url: www.bath.ac.uk
+    url: https://www.bath.ac.uk/
 education:
   courses:
     - course: PhD in Condensed Matter Physics
