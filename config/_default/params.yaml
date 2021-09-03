@@ -8,7 +8,7 @@
 theme: minimal
 day_night: false
 font: native
-font_size: L
+font_size: S
 
 # SEO
 
@@ -20,23 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: p.shields@bath.ac.uk
+phone: +44 (0) 1225 386309
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Claverton Down
+  city: Bath
+  postcode: BA2 7AY
+  country: United Kingdom
+  country_code: UK
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '51.378997'
+  longitude: '-2.327958'
+directions: Enter the building 2E foyer and continue on this level to room 2.23
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
