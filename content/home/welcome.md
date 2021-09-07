@@ -27,9 +27,11 @@ cta:
   label: Find out more 
   icon_pack: fas
   icon: arrow-right
-# cta_alt:
-#  url: 'https://wowchemy.com'
-#  label: View Documentation
+ cta_alt:
+  url: 'join-us'
+  label: Interested in joining?
+  icon_pack: fas
+  icon: arrow-right
 
 # Note. An optional note to show underneath the links.
 # cta_note:
