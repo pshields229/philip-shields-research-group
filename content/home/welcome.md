@@ -25,8 +25,8 @@ hero_media: 'welcome.jpg'
 cta:
   url: 'about'
   label: Find out more 
-  icon_pack: fas
-  icon: arrow-right
+ # icon_pack: fas
+ # icon: arrow-right
  cta_alt:
   url: 'join-us'
   label: Interested in joining?
