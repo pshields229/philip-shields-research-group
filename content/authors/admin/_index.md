@@ -29,7 +29,7 @@ education:
 email: p.shields@bath.ac.uk
 superuser: true
 user_groups:
-  - Researchers
+  - Principal Investigator
 highlight_name: false
 ---
 Philip Shields is a senior lecturer (associate professor) in the Department of Electronic & Electrical Engineering at the University of Bath, UK. His research interests are in the nanoengineering of semiconductor materials predominantly in the area of group III-V optoelectronics.
