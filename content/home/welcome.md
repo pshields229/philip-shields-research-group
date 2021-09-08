@@ -30,8 +30,8 @@ cta:
 cta_alt:
   url: 'join-us'
   label: Interested in joining?
-# icon_pack: fas
-# icon: arrow-right
+  icon_pack: fas
+  icon: arrow-right
 
 # Note. An optional note to show underneath the links.
 # cta_note:
