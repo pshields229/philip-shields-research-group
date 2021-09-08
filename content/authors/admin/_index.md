@@ -29,7 +29,7 @@ education:
 email: p.shields@bath.ac.uk
 superuser: true
 user_groups:
-  - Principal Investigator
+  - Principal Investigators
 highlight_name: false
 ---
 
