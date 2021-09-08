@@ -3,10 +3,10 @@ title: Robert Armstrong
 role: PhD candidate
 # avatar_filename: avatar
 bio: PhD student exploring the creation of site-controlled quantum dots
-#interests:
-#  - Nanofabrication
-#  - III-nitride semiconductors
-#  - III-V semiconductors
+interests:
+  - Nanofabrication
+  - III-nitride semiconductors
+  - Quantum dots
 social:
   - icon: envelope
     icon_pack: fas
@@ -18,7 +18,7 @@ education:
   courses:
     - course: MPhys in Physics
       institution: University of Hull
-      year: ????
+#      year: ????
 email: r.armstrong@bath.ac.uk
 superuser: false
 user_groups:
@@ -26,4 +26,4 @@ user_groups:
 highlight_name: false
 ---
 
-# Philip Shields is a senior lecturer (associate professor) in the Department of Electronic & Electrical Engineering at the University of Bath, UK. His research interests are in the nanoengineering of semiconductor materials predominantly in the area of group III-V optoelectronics.
+Robert Armstrong is a PhD student exploring the creation of site-controlled quantum dots

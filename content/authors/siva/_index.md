@@ -22,8 +22,7 @@ bio: PhD student exploring the creation of site-controlled quantum dots
 #email: r.armstrong@bath.ac.uk
 superuser: false
 user_groups:
-  - Technical staff
+  - Technical Staff
 highlight_name: false
 ---
 
-# Philip Shields is a senior lecturer (associate professor) in the Department of Electronic & Electrical Engineering at the University of Bath, UK. His research interests are in the nanoengineering of semiconductor materials predominantly in the area of group III-V optoelectronics.
