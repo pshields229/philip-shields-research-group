@@ -23,21 +23,21 @@ hero_media: ''
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'about'
-  label: Find out more 
- # icon_pack: fas
- # icon: arrow-right
- cta_alt:
-  url: 'join-us'
-  label: Interested in joining?
- # icon_pack: fas
- # icon: arrow-right
+url: 'about'
+label: Find out more 
+# icon_pack: fas
+# icon: arrow-right
+cta_alt:
+url: 'join-us'
+label: Interested in joining?
+# icon_pack: fas
+# icon: arrow-right
 
 # Note. An optional note to show underneath the links.
 # cta_note:
 #  label: 'label'
 
 ---
-The reseach group of Dr Philip Shields, Senior Lecturer/ Associate Professor in Electronic & Electrical Engineering at the University of Bath. 
+The reseach group of Dr Philip Shields, Senior Lecturer (Associate Professor) in Electronic & Electrical Engineering at the University of Bath. 
 
 Our research predominantly focuses on the application of nanofabrication to semiconductor materials and devices.
