@@ -19,7 +19,7 @@ content:
   - Principal Investigators
   - Researchers
   - PhD Students
-  - Technicians
+  - Technical Staff
   - Administration
   - Visitors
   - Alumni
