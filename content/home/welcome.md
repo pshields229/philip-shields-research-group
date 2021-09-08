@@ -29,15 +29,13 @@ cta:
   icon: arrow-right
 cta_alt:
   url: 'join-us'
-  label: Interested in joining?
-  icon_pack: fas
-  icon: arrow-right
+  label: Interested in joining the group?
 
 # Note. An optional note to show underneath the links.
 # cta_note:
 #  label: 'label'
 
 ---
-The reseach group of Dr Philip Shields, Senior Lecturer (Associate Professor) in Electronic & Electrical Engineering at the University of Bath. 
+The research group of Dr Philip Shields, Senior Lecturer (Associate Professor) in Electronic & Electrical Engineering at the University of Bath. 
 
 Our research predominantly focuses on the application of nanofabrication to semiconductor materials and devices.
