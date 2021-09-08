@@ -23,13 +23,13 @@ hero_media: 'welcome.jpg'
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-url: 'about'
-label: Find out more 
-icon_pack: fas
-icon: arrow-right
-cta_alt:
-url: 'join-us'
-label: Interested in joining?
+  url: 'about'
+  label: Find out more 
+  icon_pack: fas
+  icon: arrow-right
+# cta_alt:
+# url: 'join-us'
+# label: Interested in joining?
 # icon_pack: fas
 # icon: arrow-right
 
