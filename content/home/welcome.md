@@ -24,14 +24,14 @@ hero_media: 'welcome.jpg'
 #   Remove a link/note by deleting a cta/note block.
 cta:
 url: 'about'
- label: Find out more 
- icon_pack: fas
- icon: arrow-right
+label: Find out more 
+icon_pack: fas
+icon: arrow-right
 cta_alt:
- url: 'join-us'
- label: Interested in joining?
- icon_pack: fas
- icon: arrow-right
+url: 'join-us'
+label: Interested in joining?
+icon_pack: fas
+icon: arrow-right
 
 # Note. An optional note to show underneath the links.
 # cta_note:
