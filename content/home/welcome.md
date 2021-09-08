@@ -27,9 +27,9 @@ cta:
   label: Find out more 
   icon_pack: fas
   icon: arrow-right
-# cta_alt:
-# url: 'join-us'
-# label: Interested in joining?
+cta_alt:
+  url: 'join-us'
+  label: Interested in joining?
 # icon_pack: fas
 # icon: arrow-right
 
