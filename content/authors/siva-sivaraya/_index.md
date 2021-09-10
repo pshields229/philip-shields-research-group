@@ -3,15 +3,11 @@ title: Dr Siva Sivaraya
 role: Senior Technician
 avatar_filename: 'siva.png'
 bio: Cleanroom technician
-#interests:
-#  - Nanofabrication
-#  - III-nitride semiconductors
-#  - III-V semiconductors
-#social:
+social:
   - icon: envelope
     icon_pack: fas
     link: mailto:ss414@bath.ac.uk
-#organizations:
+organizations:
   - name: University of Bath
     url: https://www.bath.ac.uk/
 education:
