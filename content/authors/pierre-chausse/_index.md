@@ -2,7 +2,6 @@
 title: Dr Pierre Chausse
 role: Former PhD student and Research Associate
 bio: "PhD thesis: 'Development and Application of Displacement Talbot Lithography'"
-  devices.
 social:
   - icon: researchgate
     icon_pack: ai
