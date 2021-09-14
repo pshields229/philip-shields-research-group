@@ -23,5 +23,5 @@ user_groups:
 highlight_name: false
 ---
 
-Ionut's thesis entitled 'Development of InGaN/GaN Core-Shell Light Emitters' can be found on the [University of Bath's Research Portal][https://researchportal.bath.ac.uk/en/studentTheses/development-of-ingangan-core-shell-light-emitters]
+Ionut's thesis entitled 'Development of InGaN/GaN Core-Shell Light Emitters' can be found on the [University of Bath's Research Portal.](https://researchportal.bath.ac.uk/en/studentTheses/development-of-ingangan-core-shell-light-emitters)
 
