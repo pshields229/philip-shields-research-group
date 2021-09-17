@@ -37,19 +37,17 @@ item:
     align: center
     overlay_color: '#555'
 	overlay_img: nanotubes.png
-    overlay_img: ''
     overlay_filter: 0.5
   - title: Nanoengineered UV emitters
     content: 'I am right aligned 😄'
     align: center
     overlay_color: '#333'
-    overlay_img: ''
+    overlay_img: 'nanotubes.png'
     overlay_filter: 0.5
   - title: Core-shell visible emitters
     content: 'I am right aligned 😄'
     align: center
     overlay_color: '#333'
 	overlay_img: NRs.png
-    overlay_img: ''
     overlay_filter: 0.5
 ---
