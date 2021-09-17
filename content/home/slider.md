@@ -28,26 +28,23 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-#    cta_label: Download my app
-#    cta_url: 'https://example.org'
-#    cta_icon_pack: fas
-#    cta_icon: graduation-cap
+    cta_label: Download my app
+    cta_url: 'https://example.org'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
   - title: Nanofabrication
     content: 'I am left aligned 😄'
     align: center
     overlay_color: '#555'
-	overlay_img: nanotubes.png
     overlay_filter: 0.5
   - title: Nanoengineered UV emitters
     content: 'I am right aligned 😄'
     align: center
     overlay_color: '#333'
-    overlay_img: 'nanotubes.png'
     overlay_filter: 0.5
   - title: Core-shell visible emitters
     content: 'I am right aligned 😄'
     align: center
     overlay_color: '#333'
-	overlay_img: NRs.png
     overlay_filter: 0.5
 ---
