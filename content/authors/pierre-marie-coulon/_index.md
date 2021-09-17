@@ -1,7 +1,6 @@
 ---
 title: Dr Pierre-Marie Coulon
 role: Former Research Associate
-avatar_filename: ''
 bio: 
 social:
   - icon: google-scholar
