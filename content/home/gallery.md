@@ -18,4 +18,4 @@ subtitle:
 
 ---
 
-{{< gallery album="<temp>" >}}
+#{{< gallery album="<temp>" >}}
