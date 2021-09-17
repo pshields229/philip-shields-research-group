@@ -4,6 +4,8 @@ headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (section position etc.) ...
 
+active: true
+ 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
 interval: false
